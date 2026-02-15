@@ -1,15 +1,4 @@
 # 📝 Quick Notes
-
-<div align="center">
-[Show Image](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ba0a5c5-a9a7-4fdc-ada8-6bcf0719f5c6" />)
-[Show Image](<img width="458" height="876" alt="image" src="https://github.com/user-attachments/assets/35e56401-8d35-40b7-b0cc-ef0ed4ed679b" />
-)
-[Show Image](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8f5c7c7-bd27-44e8-b15e-a2928a61281c" />
-)
-
-A modern, responsive note-taking application built with vanilla JavaScript
-</div>
-
 ---
 
 ## ✨ Features
