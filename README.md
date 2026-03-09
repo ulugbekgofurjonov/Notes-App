@@ -55,10 +55,10 @@ Notes App/
 
 ## 👤 Author
 
-**Your Name**
+**Ulugbek Gofurjonov**
 
 - Website: [notes-app-project-ug.vercel.app](https://notes-app-project-ug.vercel.app)
-- GitHub: [@yourusername](https://github.com/ulugbekgofurjonov)
+- GitHub: [Ulugbek Gofurjonov](https://github.com/ulugbekgofurjonov)
 
 <div align="center">
 
