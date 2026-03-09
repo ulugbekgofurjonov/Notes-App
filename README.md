@@ -62,7 +62,7 @@ Notes App/
 
 <div align="center">
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Ulugbek Gofurjonov](https://github.com/yourusername)
 
 **⭐ Star this repo if you find it helpful!**
 
